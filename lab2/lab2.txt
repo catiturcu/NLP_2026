@@ -1,0 +1,34 @@
+task2 — Generalized Romanian N-gram Language Model
+Preprocessing: The text is converted to lowercase, split into sentences using ., ! and ?, and the remaining punctuation is replaced with spaces. Tokens are extracted using split(). Sentence boundaries are marked with <s> and </s>.
+The program allows the user to choose N and calculates N-gram counts and conditional probabilities using Laplace smoothing.
+Corpus statistics:
+- Number of tokens: 14,333 (including sentence-boundary markers)
+- Vocabulary size: 3,180 (including sentence-boundary markers)
+- Selected N: 3
+- Number of distinct N-grams: 11,993
+Interpretation: The N-gram model estimates word-sequence probabilities from the Romanian corpus. Laplace smoothing assigns non-zero probabilities to unseen N-grams.
+task3— Probability of a New Romanian Sentence
+Input sentence: ana are mere
+N = 3
+Conditional probabilities:
+('<s>', 'ana', 'are') -> 0.0003144654
+('ana', 'are', 'mere') -> 0.0003144654
+('are', 'mere', '</s>') -> 0.0003144654
+Sentence probability: 3.109701048267784e-11
+Log-probability: -24.193909427322666
+Interpretation: The sentence probability is calculated by multiplying the conditional probabilities of its trigrams. The log-probability is the sum of their logarithms and is useful for avoiding numerical underflow when processing longer sentences.
+
+task 4 :Generated Continuation
+Input: `Artificial intelligence can help people`
+Model: DistilGPT2
+Generated continuation: `to better understand`
+The pretrained neural language model generated the continuation `to better understand` after receiving the input sequence. It generated two new tokens, which do not necessarily correspond to two complete words.
+Comparison with the N-gram Model
+DistilGPT2 predicts `to better understand` based on patterns learned during pretraining. In contrast, the N-gram model from Task 2 predicts the next word based on conditional probabilities calculated from the Romanian training corpus.
+The neural model uses a pretrained model learned from a much larger text collection, while the N-gram model relies on word-sequence frequencies in the collected Romanian corpus. Therefore, their predictions may differ. Since the example is in English and the N-gram corpus is Romanian, this comparison is illustrative rather than a direct experimental comparison.
+
+
+Sources:
+https://www.europarl.europa.eu/topics/ro/article/20200827STO85804/ce-este-inteligenta-artificiala-si-cum-este-utilizata
+https://www.europarl.europa.eu/doceo/document/TA-8-2019-0081_RO.html
+

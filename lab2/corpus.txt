@@ -1,0 +1,626 @@
+
+IA,. este capacitatea unei mașini de a imita funcții umane, cum ar fi raționamentul, învățarea, planificarea și creativitatea.
+
+IA permite sistemelor tehnice să perceapă mediul în care funcționează, să prelucreze această percepție și să rezolve probleme, acționând pentru a atinge un anumit obiectiv. Calculatorul primește datele (deja pregătite sau colectate prin intermediul propriilor senzori, cum ar fi o cameră video), le prelucrează și reacționează.
+
+Sistemele IA sunt capabile să își adapteze, într-o anumită măsură, comportamentul, analizând efectele acțiunilor anterioare și funcționând autonom.
+
+De ce este importantă IA?
+
+Unele tehnologii de IA există de peste 50 de ani, însă creșterea puterii de calcul, disponibilitatea unor cantități enorme de date și noii algoritmi au condus la progrese majore în domeniul IA în ultimii ani.
+
+Inteligența artificială este considerată un element central al transformării digitale a societății și a devenit o prioritate pentru UE.
+
+Se preconizează că viitoarele aplicații vor aduce schimbări enorme, însă IA este deja prezentă în viața noastră de zi cu zi.
+
+Citiți mai multe despre oportunitățile oferite de IA și despre viitoarea Lege privind IA la care lucrează UE.
+
+Tipuri de IA (definiția CE)
+
+Software: asistenți virtuali, programe informatice de analiză a imaginilor, motoare de căutare, sisteme de recunoaștere vocală și facială
+
+IA încorporată: roboți, automobile autonome, drone, internetul obiectelor
+
+IA în viața de zi cu zi
+
+Iată câteva funcții pe care le folosim fără a realiza întotdeauna că sunt aplicații ale IA:
+
+Cumpărăturile și publicitatea online
+
+Inteligența artificială este utilizată pe scară largă pentru a oferi internauților recomandări personalizate, pe baza căutărilor sau achizițiilor lor anterioare, de exemplu, sau a altor tipuri de comportament online. IA are o importanță enormă în economie, pentru optimizarea produselor, planificarea inventarelor, logistică etc.
+
+Căutarea pe internet
+
+Motoarele de căutare învață din volumul imens de date introduse de utilizatori pentru a oferi rezultate pertinente.
+
+Asistenții personali digitali
+
+Telefoanele inteligente utilizează IA pentru a oferi produse cât mai adaptate și mai personalizate. Asistenții virtuali care răspund la întrebări, oferă recomandări și contribuie la organizarea activităților zilnice au devenit omniprezenți.
+
+Traducerea automată
+
+Software-urile de traducere, scrisă sau orală, utilizează inteligența artificială pentru a face traducerile, dar și pentru a le îmbunătăți. Același este și cazul altor funcții, cum ar fi subtitrarea automată.
+
+Locuințe, orașe și infrastructuri inteligente
+
+Termostatele inteligente învață din comportamentul nostru pentru a economisi energie, iar dezvoltatorii orașelor inteligente speră să controleze traficul pentru a îmbunătăți conectivitatea și a reduce ambuteiajele.
+
+Automobilele
+
+Deși vehiculele autonome nu sunt încă norma, automobilele utilizează deja funcții de siguranță bazate pe IA. UE a contribuit, de exemplu, la finanțarea VI-DAS, senzori automați care detectează posibilele situații periculoase și accidente.
+
+Navigația este în mare măsură bazată pe IA.
+
+Securitatea cibernetică
+
+Sistemele IA ajută la identificarea și combaterea atacurilor cibernetice și a altor amenințări cibernetice bazate pe inputul continuu de date, recunoscând tiparele și trasând atacurile.
+
+Inteligența artificială împotriva Covid-19
+
+În contextul epidemiei de Covid-19, IA este utilizată în imagistica termică din aeroporturi și din alte locuri. În medicină, IA poate ajuta la recunoașterea infecțiilor prin tomografia computerizată a plămânilor. De asemenea, a fost utilizată la colectarea datelor pentru a urmări răspândirea bolii.
+
+Combaterea dezinformării
+
+Anumite aplicații de IA pot detecta știrile false și dezinformarea prin extragerea informațiilor false postate pe platformele de socializare, căutând cuvinte senzaționale sau alarmante și identificând sursele online considerate oficiale.
+
+Alte exemple de utilizare a inteligenței artificiale
+
+IA va transforma practic toate aspectele vieții și economiei. Iată câteva exemple.
+
+Sănătatea
+
+Cercetătorii studiază cum poate fi utilizată IA pentru a analiza cantități mari de date medicale și a găsi modele care ar putea conduce la noi descoperiri în medicină și la îmbunătățirea diagnosticării pacienților.
+
+De exemplu, a fost creat un program de IA pentru a răspunde apelurilor de urgență, care să recunoască un stop cardiac în timpul apelului mai rapid și mai frecvent decât dispeceratul medical. Un alt exemplu este KConnect, cofinanțat de UE, care dezvoltă servicii de căutare de text multilingve, pentru a ajuta oamenii să găsească cele mai relevante informații medicale disponibile.
+
+Transportul
+
+IA ar putea îmbunătăți siguranța, viteza și eficiența traficului feroviar prin reducerea la minimum a frecării roților, maximizarea vitezei și permiterea conducerii autonome.
+
+Fabricația
+
+IA poate ajuta producătorii europeni să devină mai eficienți și să readucă fabricile în Europa, prin utilizarea roboților în fabricație, optimizarea vânzărilor și prin anticiparea din timp a întreținerii sau a întreruperilor în fabricile inteligente.
+
+SatisFactory este un proiect de cercetare cofinanțat de UE, care utilizează sisteme colaborative și de realitate augmentată pentru a crește gradul de satisfacție profesională în fabricile inteligente.
+
+Alimentația și agricultura
+
+Inteligența artificială poate fi utilizată pentru a construi unui sistem alimentar sustenabil în UE: IA poate asigura o alimentație mai sănătoasă prin reducerea la minimum a utilizării îngrășămintelor, a pesticidelor și irigațiilor, precum și prin susținerea productivității și reducerea impactului asupra mediului. Roboții ar putea elimina plantele dăunătoare, reducând astfel utilizarea erbicidelor, de exemplu.
+
+Numeroase ferme din Europa utilizează deja IA pentru a monitoriza mișcarea, temperatura și consumul de hrană pentru animalele lor.
+
+A. întrucât inteligența artificială (IA) și robotica transparente și cu principii de etică integrate au potențialul de a ne îmbogăți viețile și de a ne extinde capacitățile, atât în calitate de indivizi, cât și pentru binele comun;
+
+B. întrucât dezvoltarea IA se desfășoară într-un ritm rapid și întrucât IA a jucat deja, timp de mai mulți ani, un rol în viața noastră de zi cu zi; întrucât IA și robotica stimulează inovarea, conducând la noi modele de afaceri și jucând un rol-cheie în transformarea societăților noastre și digitalizarea economiilor noastre în multe sectoare, cum ar fi industria, asistența medicală, construcțiile și transportul;
+
+C. întrucât integrarea tot mai mare a roboticii în sistemele umane trebuie să fie ghidată de o politică solidă cu privire la maximizarea beneficiilor și reducerea la minimum a riscurilor pentru societate și cu privire la asigurarea unei dezvoltări în condiții de siguranță și în mod echitabil a inteligenței artificiale;
+
+D. întrucât inteligența artificială reprezintă una dintre tehnologiile strategice ale secolului XXI, atât pe plan mondial, cât și în Europa, ducând la evoluția pozitivă a economiei europene și favorizând inovarea, productivitatea, competitivitatea și bunăstarea;
+
+E. întrucât aproximativ un sfert dintre toți roboții industriali și jumătate dintre toți roboții destinați unor servicii profesionale din lume sunt produși de societăți europene și întrucât UE deține deja, prin urmare, active importante pe care ar trebui să își întemeieze politica industrială europeană;
+
+F. întrucât IA și robotica au potențialul de a remodela mai multe industrii și de a duce la o eficiență sporită a producției și, mai mult, de a mări competitivitatea industriei și a IMM-urilor europene pe plan global; întrucât pentru dezvoltarea inteligenței artificiale este crucial să fie disponibile seturi de date de mari dimensiuni și facilități de testare și experimentare;
+
+G. întrucât o abordare comună va facilita dezvoltarea tehnologiilor IA în beneficiul societății, răspunzând, în același timp, provocărilor prezentate de aceste tehnologii pentru a stimula inovarea, a îmbunătăți calitatea produselor și serviciilor bazate pe IA, pentru a îmbunătăți experiența consumatorilor și încrederea în tehnologiile IA și robotică și pentru a evita fragmentarea pieței interne;
+
+H. întrucât performanța în materie de calcul trebuie menținută la un nivel maxim în Uniune, care ar trebui să ofere oportunități industriei sale de aprovizionare și să îi crească eficacitatea în ceea ce privește transformarea evoluțiilor tehnologice în produse și servicii orientate spre cerere și axate pe aplicații, care să conducă la preluarea lor în aplicații de mare amploare și emergente, susținute de inteligența artificială;
+
+I. întrucât este nevoie urgent de o abordare coordonată la nivel european pentru ca UE să poată concura cu investițiile masive realizate de țări terțe, în special de SUA și China;
+
+J. întrucât, la 25 aprilie 2018(6), Comisia s-a angajat să propună o abordare europeană în ceea ce privește inteligența artificială, elaborând un proiect de orientări privind IA în colaborare cu părțile interesate în cadrul Alianței pentru IA, un grup de experți în domeniul inteligenței artificiale, pentru a stimula aplicațiile și întreprinderile bazate pe IA în Europa;
+
+K. întrucât normele și procesele existente ar trebui să fie revizuite și, dacă este necesar, modificate pentru a ține seama de inteligența artificială și robotică;
+
+L. întrucât cadrul european pentru IA trebuie dezvoltat respectând pe deplin drepturile consacrate în Carta drepturilor fundamentale, și, în special, principiile protecției, confidențialității și securității datelor;
+
+M. întrucât evoluțiile din domeniul inteligenței artificiale pot și ar trebui să fie concepute astfel încât să protejeze demnitatea, autonomia și autodeterminarea persoanei;
+
+N. întrucât în Rezoluția sa din 16 februarie 2017, conținând recomandări adresate Comisiei referitoare la normele de drept civil privind robotica, Parlamentul a invitat Comisia să propună un cadru juridic coerent în ceea ce privește dezvoltarea roboticii, inclusiv a sistemelor autonome și a roboților inteligenți autonomi;
+
+O. întrucât dezvoltarea IA și a roboticii trebuie să includă întreaga societate; întrucât, cu toate acestea, în 2017, zonele rurale au fost în mare parte excluse din beneficiile IA, deoarece 8 % dintre locuințe nu erau acoperite de o rețea fixă, iar 53 % nu dispuneau de tehnologii de „acces de generație următoare” (VDSL, Cable Docsis 3.0 sau FTTP);
+
+P. întrucât dezvoltarea serviciilor și a produselor bazate pe IA necesită conectivitate, fluxul liber al datelor și accesibilitatea datelor pe teritoriul UE; întrucât utilizarea unor tehnici avansate de minerit al datelor în produse și servicii poate contribui la creșterea calității procesului decizional și, prin urmare, a posibilităților consumatorilor de a alege, și poate îmbunătăți performanța întreprinderilor;
+
+Q. întrucât evoluțiile tehnologice în materie de produse și servicii inteligente pot aduce beneficii economiei bazate pe cunoaștere, care se întemeiază pe cantitatea, calitatea și accesibilitatea informațiilor disponibile și poate astfel conduce la o mai bună adaptare la nevoile consumatorilor;
+
+R. întrucât securitatea cibernetică este esențială pentru a asigura că datele nu sunt corupte sau utilizate răuvoitor pentru a face IA să funcționeze într-un mod care este în detrimentul cetățenilor sau al întreprinderilor, ceea ce ar submina industria și încrederea consumatorilor în IA; întrucât evoluțiile din domeniul IA sporesc dependența de aceste sisteme pentru acțiuni și decizii, lucru care, la rândul său, impune standarde înalte de reziliență cibernetică în UE pentru a asigura protecția împotriva încălcărilor și disfuncționalităților securității cibernetice;
+
+S. întrucât tendința spre automatizare impune ca cei implicați în dezvoltarea și comercializarea aplicațiilor de inteligență artificială să includă securitatea și etica încă din etapele inițiale, recunoscând astfel că trebuie să fie pregătiți să accepte răspunderea juridică pentru calitatea tehnologiei pe care o produc;
+
+T. întrucât construirea unui ecosistem fiabil pentru dezvoltarea tehnologiei IA ar trebui să se bazeze pe arhitectura politicii de date; întrucât aceasta implică crearea unor programe raționalizate și simplificate de colectare și gestionare a datelor în scopuri de cercetare, pentru a permite dezvoltarea IA în mai multe domenii: sectorul medical, financiar, biologic, energetic, industrial, chimic sau public; întrucât ecosistemul IA bazat pe date ar putea cuprinde inițiative paneuropene lansate în domeniul standardelor deschise și întemeiate pe recunoașterea reciprocă a certificatelor și norme transparente de interoperabilitate;
+
+U. întrucât utilizarea IA în sine nu asigură adevăr sau echitate, deoarece modul în care se colectează datele și se scriu algoritmii poate fi influențat de factori subiectivi și de subiectivitatea prezentă în societate; întrucât calitatea datelor, împreună cu proiectarea algoritmică și procesele de reevaluare constantă, ar trebui să prevină subiectivitatea;
+
+V. întrucât IA și robotica ar trebui dezvoltate și implementate într-un mod axat pe oameni, cu scopul de a sprijini persoanele acasă și la locul de muncă; întrucât IA poate fi folosită și pentru a evita ca oamenii să fie nevoiți să ocupe locuri de muncă periculoase;
+
+W. întrucât dezvoltarea continuă și extinderea utilizării proceselor decizionale automatizate și algoritmice va avea fără îndoială un impact asupra alegerilor pe care persoanele individuale (de exemplu oameni de afaceri sau utilizatori ai internetului) și autoritățile publice administrative, judiciare sau de altă natură le vor face în luarea unei decizii finale legate de consum, de afaceri sau de exercitarea autorității; întrucât este necesară integrarea unor garanții și a unor posibilități de control și verificare umane în procesele decizionale automatizate și algoritmice;
+
+X. întrucât învățarea automatizată ridică, de asemenea, probleme în ceea ce privește asigurarea nediscriminării, a garanțiilor procedurale, a transparenței și a înțelegerii proceselor decizionale;
+
+Y. întrucât IA constituie un instrument important de abordare a provocărilor societale globale și întrucât statele membre, prin intermediul politicii lor publice, ar trebui să promoveze investițiile, să asigure fonduri pentru C&D și să elimine barierele din calea dezvoltării și adoptării IA;
+
+Z. întrucât platformele comerciale de inteligență artificială au trecut de la testare la aplicații reale în domenii precum sănătatea, mediul, energia și transporturile; întrucât tehnicile de învățare automată se află la baza tuturor principalelor platforme web și a aplicațiilor cu volume mari de date;
+
+AA. întrucât cercetătorii și întreprinderile din Europa sunt implicați într-o mare varietate de subiecte legate de tehnologia blockchain, de la lanțuri de aprovizionare la servicii publice, finanțe, internetul obiectelor, asistență medicală, mass-media, orașe inteligente, energie și transporturi; întrucât Europa este un actor puternic în domenii importante legate de tehnologia blockchain, precum IA; întrucât tehnologia blockchain poate juca un rol important în consolidarea inovării europene;
+
+AB. întrucât tehnologiile în materie de securitate cibernetică, cum ar fi identitățile digitale, criptografia sau tehnologiile de detectare a intruziunii și aplicarea lor în domenii precum finanțele, industria 4.0, energia, transporturile, asistența medicală sau e-guvernarea sunt esențiale pentru a garanta securitatea și încrederea în activitatea și tranzacțiile online, atât în rândul cetățenilor, cât și al administrațiilor publice și al întreprinderilor;
+
+AC. întrucât mineritul textului și al datelor servește drept bază pentru aplicațiile de IA și de învățare automată, fiind vital pentru IMM-uri și întreprinderile nou-înființate, deoarece le permite să aibă acces la cantități mari de date pentru a antrena algoritmi IA;
+
+AD. întrucât IA s-ar putea dovedi a avea un consum foarte ridicat de energie; întrucât, în lumina acestor informații, este important ca utilizarea IA să fie promovată, ținând seama totodată de obiectivele existente ale UE în materie de eficiență energetică și economia circulară;
+
+AE. întrucât IA ar trebui să sprijine pe deplin toate limbile europene pentru a oferi tuturor europenilor șanse egale de a beneficia de evoluțiile moderne în materie de IA în cadrul societății informaționale europene multilingve;
+
+AF. întrucât, în industriile și serviciile asociate cu tehnologia de vârf, IA este esențială pentru transformarea Europei într-un „continent incubator de afaceri” prin exploatarea celor mai recente tehnologii pentru a genera creștere economică în Europa, în special în domenii cum ar fi tehnologia medicală, serviciile și programele de sănătate, descoperirea de noi medicamente, chirurgia robotizată și asistată de roboți, tratarea bolilor cronice și imagistica medicală și registrele medicale, precum și prin asigurarea unui mediu sustenabil și a unei producții alimentare sigure; întrucât, în prezent, Europa cunoaște o anumită întârziere în raport cu America de Nord și cu Asia în ceea ce privește cercetarea și brevetarea în domeniul inteligenței artificiale;
+
+AG. întrucât dezvoltarea tehnologiilor bazate pe IA poate contribui la îmbunătățirea vieții persoanelor cu boli cronice și dizabilități și poate oferi soluții la provocări sociale, cum ar fi fenomenul actual de îmbătrânire a populației, prin îmbunătățirea preciziei și a eficacității tehnologiei medicale în contextul asistenței medicale;
+
+AH. întrucât există un catalog vast de posibile aplicații ale IA și ale roboticii în asistența medicală, cum ar fi gestionarea registrelor și a datelor medicale, efectuarea de activități repetitive (analizarea testelor, radiografiile și scanările prin tomografie computerizată, introducerea de date), stabilirea tratamentelor, efectuarea de examinări medicale digitale (cum ar fi examinarea medicală bazată pe istoricul medical personal și pe cunoștințe medicale generale), asistenți medicali virtuali, managementul medicației, crearea de medicamente, medicina de precizie (având în vedere că în genetică și genomică se caută mutații și legături cu boala pe baza informațiilor din ADN), monitorizarea sănătății și analiza sistemelor de asistență medicală, printre alte aplicații;
+
+AI. întrucât accesibilitatea nu înseamnă aceleași servicii și aceeași aparatură pentru toți; întrucât accesibilitatea IA și a roboticii se bazează pe planificare și proiectare favorabile incluziunii; întrucât proiectarea trebuie să pornească de la nevoile, dorințele și experiențele utilizatorilor;
+
+AJ. întrucât există preocupări grave de ordin etic, psihologic și juridic cu privire la autonomia roboților, la lipsa lor evidentă de empatie umană și la impactul lor asupra relației dintre doctor și pacient, care nu au fost încă abordate în mod adecvat la nivelul Uniunii, în special în ceea ce privește protecția datelor cu caracter personal ale pacienților, răspunderea în ceea ce privește acțiunile lor și noile relații economice și de muncă rezultate; întrucât „autonomia” ca atare poate fi atribuită în totalitate exclusiv ființelor umane; întrucât este necesar un cadru juridic și etic solid pentru inteligența artificială;
+
+AK. întrucât la baza utilizării inteligenței artificiale, mai ales în domeniul sănătății, trebuie să stea mereu principiul responsabilității „Omul utilizează tehnologia”,
+
+1.O societate sprijinită de inteligența artificială și robotică
+
+1.1.Forța de muncă în era inteligenței artificiale și roboticii
+
+1. subliniază că automatizarea combinată cu inteligența artificială va crește productivitatea și, astfel, va crește producția; remarcă faptul că, la fel ca și în cazul revoluțiilor tehnologice anterioare, unele locuri de muncă vor fi înlocuite, însă totodată vor fi create noi locuri de muncă, transformând vieți și practici de lucru; subliniază că utilizarea în măsură mai mare a roboticii și a IA ar trebui totodată să reducă expunerea oamenilor la condiții dăunătoare și periculoase și ar trebui, de asemenea, să contribuie la crearea de locuri de muncă mai calitative și mai decente și să sporească productivitatea;
+
+2. îndeamnă statele membre să se concentreze pe recalificarea lucrătorilor în industriile cele mai afectate de automatizarea sarcinilor; subliniază că noile programe de educație ar trebui să se concentreze pe dezvoltarea competențelor lucrătorilor, astfel încât aceștia să poată profita de noile oportunități de încadrare în muncă generate de IA; încurajează dezvoltarea programelor de alfabetizare digitală în școli, dezvoltarea uceniciilor și a priorităților în materie de formare profesională, pentru a-i ajuta pe lucrători să se adapteze la schimbările tehnologice;
+
+3. recomandă ca statele membre, alături de actorii din sectorul privat, să identifice riscurile și să elaboreze strategii pentru a asigura dezvoltarea programelor relevante de reinstruire și de recalificare; subliniază că întreprinderile însele trebuie să investească în formarea și recalificarea forței de muncă existente pentru a răspunde nevoilor acestora;
+
+4. subliniază că dezvoltarea roboticii în UE va avea un impact puternic asupra relațiilor industriale; consideră că acest impact ar trebui abordat într-o manieră echilibrată, astfel încât să se promoveze reindustrializarea și să li se permită și lucrătorilor să se bucure de creșterea productivității;
+
+5. ia act de faptul că, în peisajul industrial actual, există un echilibru delicat între proprietari și lucrători; consideră că progresele înregistrate în ceea ce privește implementarea inteligenței artificiale în industrie ar trebui să se fie însoțite de o amplă consultare a partenerilor sociali, întrucât potențiala schimbare a numărului de persoane care lucrează în industrie necesită politici proactive care să ajute lucrătorii să se adapteze la noile cerințe și să asigure că câștigurile sunt, în linii mari, împărtășite; remarcă faptul că acest lucru necesită regândirea și redefinirea politicilor privind piața forței de muncă, a sistemelor de securitate socială și a fiscalității;
+
+6. îndeamnă statele membre să elimine barierele din calea intrării pe piața muncii, cum ar fi calificările excesive;
+
+7. consideră că alfabetizarea digitală este unul dintre cei mai importanți factori pentru dezvoltarea IA pe viitor și îndeamnă Comisia și statele membre să conceapă și să pună în aplicare strategii de formare și de recalificare în domeniul competențelor digitale; constată că alfabetizarea digitală poate sprijini o participare extinsă și incluzivă la soluțiile economiei bazate pe date și poate facilita comunicarea și cooperarea cu toate părțile interesate;
+
+8. remarcă faptul că, întrucât vor fi afectați cetățenii de toate vârstele, programele de învățământ trebuie adaptate, inclusiv prin stabilirea unor noi parcursuri de învățare și prin utilizarea unor noi tehnologii de asigurare a formării; subliniază că aspectele legate de educație ar trebui abordate în mod corespunzător; consideră în special că nevoia de competențe digitale, inclusiv în materie de programare, trebuie inclusă în formele de învățământ și formare, de la primii ani de școală până la învățarea pe tot parcursul vieții;
+
+1.2.Utilizarea răuvoitoare a inteligenței artificiale și drepturile fundamentale
+
+9. atrage atenția că utilizarea răuvoitoare sau neglijentă a IA ar putea pune în pericol securitatea digitală și siguranța fizică și publică, deoarece ar putea fi utilizată pentru a realiza atacuri la scară largă, precise și foarte eficiente asupra serviciilor societății informaționale și a echipamentelor conectate, precum și campanii de dezinformare și, în general, ar putea reduce dreptul persoanelor la autodeterminare; subliniază că utilizarea răuvoitoare sau neglijentă a IA ar putea prezenta, de asemenea, un risc la adresa democrației și a drepturilor fundamentale;
+
+10. invită Comisia să propună un cadru care să penalizeze practicile de manipulare a percepției atunci când conținutul personalizat sau fluxul de știri conduc la sentimente negative și denaturări ale percepției realității care ar putea avea consecințe negative (de exemplu, rezultate ale alegerilor sau percepții distorsionate asupra unor probleme sociale precum migrația);
+
+11. subliniază importanța recunoașterii, identificării și monitorizării evoluțiilor perturbatoare legate direct și indirect de dezvoltarea IA; îndeamnă ca cercetarea în domeniul IA să se concentreze, de asemenea, pe detectarea sistemelor IA și de robotică corupte accidental sau răuvoitor;
+
+12. îndeamnă Comisia să ia act de provocările sociale apărute ca urmare a practicilor rezultate din clasificarea cetățenilor; subliniază că cetățenii nu ar trebui să fie supuși discriminării pe baza clasificării lor și ar trebui să aibă dreptul la o „nouă șansă”;
+
+13. își exprimă profunda îngrijorare cu privire la folosirea aplicațiilor de IA, inclusiv recunoașterea facială și vocală, în programe de „supraveghere emoțională”, adică monitorizarea stării mentale a lucrătorilor și cetățenilor cu scopul de a crește productivitatea și de a menține stabilitatea socială, combinate uneori cu sisteme de „credit social”, de exemplu cele introduse deja în China; subliniază că astfel de programe sunt prin natura lor contrare valorilor și normelor europene care protejează drepturile și libertățile persoanelor;
+
+2.Traiectoria tehnologică spre inteligența artificială și robotică
+
+2.1.Cercetare și dezvoltare
+
+14. reamintește faptul că Europa are o comunitate de cercetare în domeniul IA care ocupă o poziție de prim rang la nivel mondial și reprezintă 32 % din instituțiile de cercetare în domeniul IA din întreaga lume;
+
+15. salută propunerea Comisiei privind programul „Europa digitală” și bugetul de 2,5 miliarde de euro promis pentru inteligența artificială, precum și creșterea finanțării în cadrul programului Orizont 2020; înțelege cât este de important ca finanțarea UE să completeze bugetele de cercetare ale statelor membre și ale industriei în domeniul IA și necesitatea colaborării dintre programele de cercetare publice, cele private și cele ale UE;
+
+16. sprijină obiectivele operaționale ale programului Europa digitală de a consolida și întări capacitățile de bază în materie de inteligență artificială în Uniune, de a le face accesibile tuturor întreprinderilor și administrațiilor publice și de a consolida și a pune în rețea instalațiile existente de testare și experimentare a inteligenței artificiale din statele membre;
+
+17. încurajează statele membre să dezvolte parteneriate între mai multe părți interesate din industrie și institutele de cercetare, precum și centre de excelență comune în domeniul IA;
+
+18. subliniază că cercetarea în domeniul IA ar trebui să realizeze investiții nu doar în dezvoltarea tehnologiei și inovării în domeniul IA, ci și în domeniul social, cel etic și cel al răspunderii juridice; consideră că orice model de IA dat în folosință ar trebui să încorporeze etica încă din proiectare;
+
+19. subliniază că, deși încurajează progresul în beneficiul societății și al mediului, cercetarea în domeniul IA și alte activități conexe ar trebui să se desfășoare în conformitate cu principiul precauției și cu drepturile fundamentale; subliniază că toate persoanele implicate în dezvoltarea, implementarea, diseminarea și utilizarea IA ar trebui să aibă în vedere și să respecte demnitatea umană, autodeterminarea și starea de bine – fizică și psihologică – a individului și a societății în ansamblu, să anticipeze efectele potențiale asupra siguranței și să ia măsurile de precauție necesare, proporționale cu nivelul protecției, inclusiv comunicarea rapidă a factorilor care ar putea pune în pericol publicul sau mediul;
+
+20. subliniază că și un mediu de cercetare competitiv este esențial pentru dezvoltarea inteligenței artificiale; reliefează importanța sprijinirii excelenței în cercetare, inclusiv a proiectelor științifice fundamentale și a proiectelor cu grad ridicat de risc și potențial ridicat, precum și a promovării unui spațiu european al cercetării cu condiții atractive de finanțare, mobilitate și acces la infrastructură și tehnologie în întreaga Uniune, bazat pe principiul deschiderii către țări terțe și pe expertiză din afara Uniunii, cu condiția să nu submineze securitatea cibernetică a UE;
+
+21. subliniază că cercetătorii din UE continuă să câștige mult mai puțin decât omologii lor din SUA și din China, fiind cunoscut că acesta constituie motivul principal al plecării lor din Europa; invită Comisia și statele membre să se concentreze pe atragerea talentelor de vârf către întreprinderile europene și invită statele membre să creeze condiții atractive;
+
+22. subliniază că Europa trebuie să dedice inteligenței artificiale noua inițiativă emblematică în domeniul FET(7), punând un accent deosebit pe abordarea centrată pe om și pe tehnologiile limbajului;
+
+23. consideră că inteligența artificială, învățarea automată și progresele exponențiale în materie de disponibilitate a datelor și de calcul (tehnologia „cloud”) stimulează inițiativele de cercetare care urmăresc să înțeleagă procesele biologice la nivel molecular și celular, să orienteze dezvoltarea tratamentelor medicale și să analizeze fluxurile de date pentru detectarea amenințărilor la adresa sănătății, să prevadă epidemiile și să ofere consiliere pacienților; constată că tehnicile de minerit al datelor și de navigare prin date pot fi utilizate pentru a identifica lacune, riscuri, tendințe și tipare în materie de îngrijire;
+
+24. atrage atenția că, acolo unde apar riscuri ca element inevitabil și integral al cercetării în domeniul IA, ar trebui să se elaboreze și să se respecte protocoale solide de evaluare și de gestionare a riscurilor, urmărindu-se ca riscul de prejudicii să nu fie mai mare decât cel întâlnit în viața obișnuită (adică lumea nu trebuie expusă unor riscuri mai mari sau în plus față de cele la care este expusă în mod normal);
+
+2.2.Investiții
+
+25. remarcă importanța unor investiții mai mari în acest domeniu, pentru a rămâne competitivi; recunoaște că, deși majoritatea investițiilor și a inovării în domeniu provin de la întreprinderi din sectorul privat, statele membre și Comisia ar trebui, de asemenea, încurajate să investească în continuare în cercetare în acest sector și să își prezinte prioritățile de dezvoltare; salută propunerea InvestEU și alte parteneriate public-privat care vor stimula finanțarea privată; consideră că ar trebui încurajată coordonarea investițiilor din sectorul public și cel privat, în vederea asigurării unei dezvoltări focalizate;
+
+26. subliniază că investițiile în IA, care pot prezenta niveluri semnificative de incertitudine, ar trebui completate cu fonduri UE, de exemplu, din partea Băncii Europene de Investiții (BEI) sau a Fondului european de investiții (FEI), sau prin InvestEU și prin Fondul european pentru investiții strategice (FEIS), scheme care pot contribui la partajarea riscurilor;
+
+27. îndeamnă Comisia să nu permită finanțarea de către UE a IA în domeniul armelor; îndeamnă Comisia să excludă întreprinderile care cercetează și dezvoltă conștiința artificială din obiectivele de finanțare din partea UE;
+
+28. recomandă Comisiei să se asigure că proprietatea intelectuală a cercetării care beneficiază de finanțare din partea UE va rămâne în UE și în universitățile europene;
+
+2.3.Inovarea, acceptarea de către societate și responsabilitatea
+
+29. constată că toate progresele tehnologice majore necesită o perioadă de tranziție, una în care majoritatea societății trebuie să dobândească o înțelegere mai profundă a tehnologiei și să o integreze în viața de zi cu zi;
+
+30. observă că viitorul acestei tehnologii depinde de acceptarea de către societate și că trebuie să se pună mai mult accent pe comunicarea adecvată a beneficiilor sale, cu scopul de a asigura o mai bună înțelegere a tehnologiei și a aplicațiilor ei; de asemenea, observă că, în cazul în care societatea nu este informată despre tehnologiile IA, va scădea gradul de motivație pentru a inova în acest sector;
+
+31. consideră că acceptarea de către public depinde de modul în care acesta este informat cu privire la oportunitățile, provocările și evoluțiile inteligenței artificiale; recomandă statelor membre și Comisiei să ușureze accesul la informații credibile care tratează principalele preocupări legate de IA și robotică, de exemplu viața privată, siguranța și transparența deciziilor;
+
+32. salută utilizarea spațiilor de testare în materie de reglementare pentru a introduce, în cooperare cu autoritățile de reglementare, noi idei inovatoare, care să permită integrarea în tehnologii a unor mecanisme de protecție încă de la început, facilitând și încurajând astfel pătrunderea pe piață; evidențiază necesitatea introducerii unor spații de testare în materie de reglementare specifice pentru IA, pentru a testa utilizarea sigură și eficace a tehnologiilor IA într-un mediu real;
+
+33. observă că, pentru o mai bună acceptare la nivelul societății a inteligenței artificiale, trebuie să existe asigurări că sistemele utilizate sunt sigure și securizate;
+
+34. constată că inteligența artificială și tehnologia lingvistică pot oferi aplicații importante pentru a promova unitatea Europei în diversitatea sa: traducere automată, agenți de conversație și asistenți personali, interfețe vocale pentru roboți și internetul obiectelor, analize inteligente, identificarea automată a propagandei online, a știrilor false sau a discursurilor de incitare la ură;
+
+2.4.Condiții favorabile: conectivitate, accesibilitatea datelor și calculul de înaltă performanță, precum și infrastructura de tip cloud
+
+35. subliniază că integrarea roboticii și a tehnologiei IA în cadrul economiei și al societății necesită o infrastructură digitală care să ofere o conectivitate omniprezentă;
+
+36. subliniază faptul că conectivitatea este o condiție prealabilă pentru ca Europa să devină parte a societății gigabiților, iar IA este un exemplu clar de creștere exponențială a unei cereri de conectivitate de înaltă calitate, rapidă, sigură și omniprezentă; consideră că Uniunea și statele membre ar trebui să continue să promoveze măsuri de stimulare a investițiilor în rețelele de foarte mare capacitate din UE și de promovare a adoptării acestora;
+
+37. subliniază că dezvoltarea rapidă, sigură și securizată a tehnologiei 5G este esențială pentru a garanta că Uniunea poate profita pe deplin de IA și pentru a asigura protecția împotriva amenințărilor la adresa securității cibernetice, făcând posibilă reînnoirea și dezvoltarea industriilor și a serviciilor, care reprezintă coloana vertebrală a economiei europene, precum și pentru a sprijini apariția de noi servicii, capacități de producție și piețe, indispensabilă pentru crearea de noi locuri de muncă și un nivel ridicat de ocupare a forței de muncă;
+
+38. reamintește că disponibilitatea datelor de înaltă calitate și semnificative este esențială pentru o reală competitivitate în industria IA și solicită autorităților publice să garanteze modalități pentru a produce, partaja și reglementa datele prin transformarea datelor publice într-un bun comun, protejând, în același timp, viața privată și datele sensibile;
+
+39. subliniază importanța calității datelor utilizate pentru învățarea profundă; constată că utilizarea unor date de proastă calitate, depășite, incomplete sau incorecte poate conduce la previziuni de calitate inferioară și ulterior la discriminare și părtinire;
+
+40. consideră că noul ansamblu de norme care reglementează fluxul liber al datelor fără caracter personal în Uniune permite ca din ce în ce mai multe date să devină disponibile pentru inovarea bazată pe date, ceea ce va permite IMM-urilor și întreprinderilor nou-înființate să dezvolte servicii inovatoare bazate pe IA și să intre pe piețe noi, permițând în același timp cetățenilor și întreprinderilor să beneficieze de produse și servicii mai bune;
+
+41. ia act de faptul că IA are potențialul de a crește eficiența, confortul și bunăstarea în multe sectoare, dacă părțile interesate din industrie cooperează cu dezvoltatorii de IA; observă, în plus, că un volum mare de date, care nu au caracter personal, se află în prezent în posesia părților interesate și ar putea fi utilizate, prin intermediul unor parteneriate, pentru a le spori eficiența; consideră că, pentru ca acest lucru să devină realitate, cooperarea dintre utilizatorii și dezvoltatorii de IA este o condiție prealabilă;
+
+42. subliniază importanța interoperabilității și exactității datelor pentru a asigura un nivel și un standard ridicat de fiabilitate și de siguranță al noilor tehnologii;
+
+43. este de opinie că succesul aplicațiilor IA, adaptate la nevoile utilizatorilor din UE, necesită deseori cunoașterea temeinică a piețelor locale, precum și accesul la date locale adecvate și utilizarea acestora pentru antrenarea seturilor de date, testarea și validarea sistemelor, în special în sectoare legate de procesarea limbajului natural; solicită statelor membre să încurajeze disponibilitatea unor date de înaltă calitate, interoperabile și deschise în sectorul public sau deținute privat;
+
+44. evidențiază necesitatea de a asigura o coerență maximă cu politica Uniunii Europene în domeniul volumelor mari de date;
+
+45. salută măsurile menite să faciliteze și să sprijine schimbul și partajarea de date dincolo de frontiere;
+
+46. observă că, în prezent, partajarea datelor se situează mult sub potențial și cantități mari de date sunt insuficient utilizate;
+
+47. recunoaște că există o reticență de a partaja date și atrage atenția că sunt necesare acțiuni de încurajare; remarcă faptul că lipsa unor standarde comune joacă, de asemenea, un rol major în posibilitatea de partajare a datelor;
+
+48. salută reglementările precum Regulamentul privind fluxul liber al datelor și importanța acestuia în domenii precum IA, pentru a permite procese mai eficace și mai eficiente;
+
+49. recunoaște că trebuie introduse stimulente mai puternice bazate pe piață pentru a încuraja accesul la date și partajarea acestora; observă, în special, că datele deschise prezintă riscuri pentru investițiile în date;
+
+50. solicită mai multă claritate în legătură cu normele privind proprietatea asupra datelor și cu cadrele juridice în vigoare; constată că incertitudinea în materie de reglementare a dus la reacții de extremă prudență din partea industriei;
+
+51. subliniază importanța inițiativelor europene în domeniul tehnologiei de cloud computing și al calculului de înaltă performanță, care vor consolida în continuare dezvoltarea unor algoritmi de învățare profundă și prelucrarea volumelor mari de date; este ferm convins că, pentru ca aceste inițiative să aibă succes și să fie relevante pentru dezvoltarea IA, infrastructura trebuie să fie deschisă atât entităților publice, cât și entităților private cu sediul în Uniune și în alte părți și să fie guvernată de criterii de acces cât mai puțin restrictive;
+
+52. salută instituirea întreprinderii comune pentru calculul european de înaltă performanță; subliniază că supercalculul și infrastructurile de date sunt esențiale pentru a asigura un ecosistem de inovare competitiv pentru dezvoltarea tehnologiilor și aplicațiilor de IA;
+
+53. accentuează că tehnologia de tip cloud computing joacă un rol esențial în stimularea adoptării IA; atrage atenția că accesul la serviciile de tip cloud permite întreprinderilor private, instituțiilor publice, instituțiilor academice și de cercetare, precum și utilizatorilor să dezvolte și să utilizeze IA într-un mod eficient și viabil din punct de vedere economic;
+
+3.Politica industrială
+
+54. reamintește că, deși IA și robotica au deja de mult timp aplicații industriale, progresele în domeniu se extind și oferă aplicații ample și diverse în toate activitățile umane; este de opinie că orice cadru de reglementare trebuie să prevadă flexibilitate care să permită inovarea și dezvoltarea liberă a noilor tehnologii și utilizări ale IA;
+
+55. subliniază că identificarea unui domeniu de aplicare și a unor aplicații pentru IA ar trebui să fie rezultatul unui proces de proiectare condus de nevoi și ghidat de principii care să țină seama de rezultatele preconizate și de cea mai bună cale pentru realizarea acestora din punct de vedere economic și social; consideră că existența unor politici clare în toate etapele dezvoltării va conduce la o punere în aplicare adecvată scopului și va aborda riscurile și dezavantajele;
+
+56. recomandă utilizarea și promovarea parteneriatelor public-privat pentru a explora soluții la principalele provocări, cum ar fi construirea unui ecosistem de date și promovarea accesului la date, a schimbului de date și a circulației acestora, protejând, în același timp, dreptul persoanelor la viață privată;
+
+57. subliniază că calitatea inconsecventă a tehnologiei de producție de software reprezintă o provocare semnificativă pentru viitorul sistemelor IA și constată, prin urmare, că există o mare nevoie de standardizare a construcției și utilizării sistemelor de IA;
+
+58. ia act de lucrările desfășurate pe plan mondial și recunoaște că este necesar să se colaboreze proactiv cu parteneri, în special în cadrul OCDE și G20, pentru stabilirea direcției în care se îndreaptă această industrie, în vederea asigurării faptului că UE rămâne competitivă și garantează accesul egal în rândul națiunilor, precum și pentru partajarea beneficiilor dezvoltării IA la scară cât mai largă;
+
+59. constată cu îngrijorare că o serie de societăți neeuropene și entități din țări terțe folosesc din ce în ce mai mult modele predictive bazate pe IA cu scopul de a furniza servicii și a extrage valoarea adăugată de pe piețele UE, în special la nivel local, dar și pentru a monitoriza și eventual a influența sentimentul politic, reprezentând astfel potențiale amenințări pentru suveranitatea tehnologică a cetățenilor Uniunii;
+
+60. subliniază că sprijinul public pentru IA ar trebui să se concentreze pe acele sectoare strategice în care industria UE are cele mai multe oportunități de a juca un rol central la nivel global și care au o valoare adăugată de interes public general;
+
+3.1.Sectoarele prioritare
+
+3.1.1.Sectorul public
+
+61. scoate în evidență faptul că se pot obține mai multe beneficii de pe urma IA și a roboticii în sectorul public și salută sporirea investițiilor în cercetare și dezvoltare pentru a asigura succesul acestora;
+
+62. subliniază că statele membre ar trebui să investească, de asemenea, în programe de educație și de formare în domeniul IA, pentru a ajuta angajații din sectorul public să adopte utilizarea IA și a roboticii; remarcă totodată că ar trebui să existe campanii de informare a cetățenilor care vor utiliza serviciile sectorului public furnizate prin sisteme de IA și robotică, pentru a le diminua temerile legate de pierderea controlului asupra datelor cu caracter personal și pentru a le insufla încredere;
+
+63. subliniază că informațiile din sectorul public constituie o sursă extraordinară de date care pot contribui la progrese rapide și la crearea unei noi strategii care să integreze noile tehnologii digitale, în special inteligența artificială;
+
+64. consideră că adoptarea de către sectorul public a inteligenței artificiale demne de încredere poate sprijini puternic reforma administrației publice în procesul decizional și poate îmbunătăți serviciile publice, precum și stimula adoptarea pe scară mai largă a IA în alte domenii;
+
+65. recunoaște utilizarea automatizării procesului robotic și impactul acestuia asupra îmbunătățirii proceselor sectorului public; remarcă interoperabilitatea sa cu sistemele tradiționale;
+
+66. solicită statelor membre să se plaseze în fruntea acestei transformări digitale punându-se în poziția de utilizatori și cumpărători responsabili primari de tehnologie IA; subliniază, în acest context, că statele membre trebuie să își adapteze politicile în materie de date, în legătură cu colectarea, utilizarea, stocarea sau adnotarea de date publice, pentru a permite implementarea IA în toate sectoarele publice;
+
+67. evidențiază necesitatea de a include publicul în procesul de dezvoltare a IA; invită, prin urmare, Comisia să publice toți algoritmii, instrumentele și tehnologiile finanțate sau cofinanțate de public ca sursă deschisă;
+
+68. consideră că IA va constitui un atu important în ceea ce privește implementarea principiului „doar o singură dată”, permițând combinarea bazelor de date și a informațiilor din diferite surse și facilitând astfel interacțiunea cetățenilor cu administrațiile publice;
+
+69. invită Comisia să garanteze protecția cetățenilor în fața unor sisteme decizionale bazate pe clasificări realizate de IA în administrațiile publice, similare celor planificate a fi introduse în China;
+
+3.1.2.Sănătate
+
+70. subliniază că contactul uman este un aspect esențial al îngrijirii umane;
+
+71. ia act de faptul că IA și robotica au potențiale beneficii în sectorul îngrijirii pe măsură ce speranța de viață crește, de exemplu ajutând medicii și asistenții medicali să dispună de mai mult timp pentru activități cu valoare ridicată (cum ar fi pentru interacțiunea cu pacienții);
+
+72. ia act de impactul pe care IA îl are deja asupra stării de bine, a prevenirii, a diagnosticării și a cercetării, dar și de potențialul său ridicat de a asigura îngrijire personalizată; consideră că, în cele din urmă, va rezulta un ecosistem de asistență medicală mai sustenabil, eficient și bazat pe rezultate;
+
+73. observă că, atunci când IA este combinată cu diagnosticul uman, rata de eroare tinde să fie semnificativ mai scăzută decât în cazul diagnosticului efectuat exclusiv de medici umani(8);
+
+74. subliniază că utilizarea datelor în sectorul sănătății trebuie să fie monitorizată cu atenție și în mod etic și nu trebuie în niciun caz să împiedice accesul la protecție socială sau la asigurări;
+
+75. consideră că atunci când se folosește IA în dispozitivele medicale implantate, purtătorul ar trebui să aibă dreptul de a inspecta și a modifica codul sursă utilizat în dispozitiv;
+
+76. ar trebui acordată o atenție specială utilizării volumelor mari de date în domeniul sănătății cu scopul de a maximiza oportunitățile pe care aceasta le poate aduce, cum ar fi îmbunătățirea sănătății pacienților individuali, precum și a performanței sistemelor de sănătate publică ale statelor membre, fără a coborî standardele etice și fără a periclita dreptul la confidențialitate al cetățenilor sau siguranța acestora;
+
+77. subliniază, cu toate acestea, că este posibil ca actualul sistem de autorizare a dispozitivelor medicale să nu fie adecvat pentru tehnologiile IA; invită Comisia să monitorizeze îndeaproape progresul acestor tehnologii și să propună modificări ale cadrului de reglementare, dacă este necesar, cu scopul de a stabili cadrul pentru a determina răspunderea respectivă a utilizatorului (medic/profesionist), a producătorului soluției tehnologice și a unității medicale care oferă tratamentul; subliniază importanța deosebită a aspectului legat de răspunderea juridică în caz de prejudicii în domeniul sănătății în ceea ce privește utilizarea IA; subliniază, prin urmare, că este necesar să se asigure că utilizatorul nu va fi nevoit să țină întotdeauna cont de soluția de diagnostic sau de tratamentul sugerat de instrumentul tehnologic, de teama răspunderii civile în cazul în care aprecierea sa profesională și în cunoștință de cauză l-ar determina să formuleze concluzii chiar și parțial diferite;
+
+78. invită statele membre și Comisia să crească finanțarea dedicată tehnologiilor IA din domeniul sănătății în sfera publică și în cea privată; salută, în acest context, declarația de cooperare semnată de 24 de state membre ale UE și de Norvegia în vederea creșterii impactului investițiilor în IA la nivel european; invită statele membre și Comisia să analizeze dacă programele de formare a personalului în domeniul sănătății trebuie să fie actualizate și standardizate la nivel european pentru a asigura un grad înalt de expertiză și condiții de concurență echitabile în diferite state membre în ceea ce privește cunoștințele și utilizarea celor mai avansate instrumente tehnologice în chirurgia robotică, biomedicină și imagistica biomedicală bazată pe IA;
+
+79. invită Comisia să elaboreze strategii și politici care pot transforma UE în lider mondial în domeniul în extindere al tehnologiilor de îngrijire medicală, asigurând totodată că pacienții au acces la îngrijire medicală eficace și fără sincope;
+
+80. recunoaște că un diagnostic mai bun ar putea salva milioane de vieți, deoarece, potrivit Organizației Mondiale a Sănătății, 89 % din decesele premature din Europa sunt cauzate de boli netransmisibile;
+
+81. reliefează contribuția IA și a roboticii la practicile și tehnicile inovatoare de prevenire, de tratament clinic și de reabilitare în sectorul sănătății, subliniind în special avantajele pentru pacienții cu dizabilități;
+
+82. recunoaște că utilizarea tot mai răspândită a senzorilor în domeniul roboticii a extins aplicabilitatea serviciilor de îngrijire și le permite pacienților să beneficieze de un tratament și de servicii mai personalizate, precum și să primească îngrijiri de la distanță în propria casă, generând în același timp date mai de încredere;
+
+83. recunoaște că, potrivit sondajului Eurobarometru din mai 2017(9), în prezent, cetățenii UE nu agreează încă ideea utilizării roboților în asistența medicală de zi cu zi; invită Comisia și statele membre să dezvolte strategii și campanii de comunicare pentru a informa populația cu privire la punctele pozitive ale utilizării roboților în viața de zi cu zi; ia act, în special, de nivelul de ambiție al strategiei Japoniei privind roboții;
+
+3.1.3.Energie
+
+84. observă că IA le permite furnizorilor de energie să treacă de la întreținerea preventivă la întreținerea predictivă a activelor și să obțină o producție de energie mai eficientă prin îmbunătățirea fiabilității în special a surselor regenerabile și prin identificarea celor mai eficiente amplasamente pentru noile instalații, asigurând astfel o mai bună gestionare a consumului comandabil;
+
+85. recunoaște că datele mai exacte produse de IA privind potențialul producției de energie regenerabilă va crea o mai mare certitudine a investițiilor pentru întreprinderi și persoane individuale, accelerând astfel tranziția energetică spre sursele regenerabile de energie și contribuind la strategia pe termen lung a Uniunii pentru o economie neutră din punctul de vedere al impactului asupra climei;
+
+86. observă că se folosesc deja soluții care implică senzori pentru a gestiona utilizarea energiei în locuințe și că acest lucru a dus la economii de energie și monetare substanțiale;
+
+87. salută potențialul IA în domeniul modelării, identificării și atenuării impactului activității umane asupra climei; constată că, deși extinderea digitalizării este însoțită și de noi necesități energetice, ea poate, de asemenea, să crească eficiența în sectoare mari consumatoare de energie și să asigure o mai bună înțelegere a proceselor, ceea ce va conduce la îmbunătățirea lor;
+
+88. subliniază că într-un sector energetic mai digitalizat, rețelele energetice devin mai ample și mai expuse amenințărilor cibernetice; invită statele membre și Comisia să însoțească transformarea digitală a sectoarelor energetice cu măsuri, precum inteligența artificială, care îmbunătățesc securitatea cibernetică;
+
+3.1.4.Transport
+
+89. salută capacitatea pe care o au IA și robotica de a îmbunătăți semnificativ în mod sistemele noastre de transport prin introducerea trenurilor autonome și a vehiculelor fără conducător auto; solicită intensificarea activităților de cercetare și investiții mai mari în acest domeniu în vederea asigurării dezvoltării sigure și eficace a acestuia; scoate în evidență oportunitățile imense atât pentru întreprinderile mai mari din domeniul tehnologiei, cât și pentru întreprinderile mici și mijlocii;
+
+90. remarcă faptul că, prin reducerea ratei de eroare umană în sectorul transporturilor, sistemul poate în mod potențial deveni mai eficient, înregistrând mai puține accidente, mulțumită unor evaluări mai clare și caracterului predictiv al tehnologiei, mai puține întârzieri, având posibilitatea cartografierii modelelor de trafic și a gestionării serviciilor astfel încât să se respecte orarele, realizând economii mai mari, mai puține greșeli legate de conducător, precum și procese interne raționalizate;
+
+91. ia act de faptul că prevalența vehiculelor autonome în viitor prezintă riscuri pentru confidențialitatea datelor și defecțiunile tehnice și va transfera răspunderea de la conducător la producător, astfel că societățile de asigurări vor fi nevoite să își schimbe modul în care încorporează riscurile în subscriere;
+
+92. remarcă faptul că comunicarea prin voce este utilizată tot mai mult în interacțiunea cu vehiculele și sistemele de transport, însă aceste funcții sunt disponibile doar în câteva limbi europene, astfel că ar trebui să se asigure că toți europenii pot face uz de aceste posibilități în limba lor maternă;
+
+3.1.5.Agricultura și lanțul alimentar
+
+93. ia act de faptul că IA are potențialul de a cataliza o transformare disruptivă a sistemului alimentar actual în vederea unui model mai divers, mai rezilient, mai adaptat la nivel regional și mai sănătos pentru viitor;
+
+94. ia act de rolul pe care IA îl poate juca în eforturile de combatere a problemelor de securitate alimentară, de anticipare a foametei și a apariției focarelor de boli cu transmitere prin alimente, de a reduce pierderile și risipa de alimente și de a îmbunătăți gestionarea sustenabilă a terenurilor, a apei și a altor resurse de mediu esențiale pentru sănătatea ecosistemului;
+
+95. evidențiază faptul că IA poate interveni în punctele critice de-a lungul lanțului valoric al sistemului alimentar, de la producție la consum, și poate îmbunătăți capacitatea noastră de a modifica în mod fundamental modul în care producem, prelucrăm și cumpărăm alimente, prin intermediul unor informații mai bune referitoare la practicile de planificare a utilizării terenurilor;
+
+96. ia act de faptul că IA poate îmbunătăți gestionarea resurselor și eficiența factorilor de producție, poate contribui la reducerea deșeurilor rezultate după recoltare și poate influența alegerile în materie de consum;
+
+97. ia act de faptul că IA sub forma agriculturii de precizie are potențialul de a transforma și a perturba producția agricolă, precum și gestionarea mai amplă a terenurilor, îmbunătățind planificarea utilizării terenurilor, prevăzând schimbarea destinației terenurilor și monitorizând sănătatea culturilor, având, de asemenea, potențialul de a transforma previziunile privind fenomenele meteorologice extreme;
+
+98. ia act de faptul că IA poate modifica în mod radical furnizarea de factori de producție, controlul organismelor dăunătoare și gestionarea fermelor, poate influența practicile agricole, poate modifica modul în care sunt oferite produsele de asigurare și poate ajuta la anticiparea și evitarea în viitor a foametei și a focarelor de malnutriție acută gravă;
+
+99. ia act de faptul că IA poate permite luarea unor decizii mai bune cu privire la modul de gestionare a sistemelor agricole și poate stimula dezvoltarea sistemelor de sprijinire a deciziilor și de recomandare, prin îmbunătățirea eficienței și sănătății fermelor agricole;
+
+3.1.6.Securitatea cibernetică.
+
+100. ia act de faptul că securitatea cibernetică este un aspect important al IA, în special având în vedere provocările în materie de transparență cu care se confruntă IA de nivel înalt; consideră că perspectiva tehnologică, inclusiv auditarea codului-sursă și cerințele privind transparența și responsabilitatea, ar trebui să fie completată de o abordare instituțională, care să trateze provocările care însoțesc introducerea de IA dezvoltate în alte țări pe piața unică a UE;
+
+101. solicită punerea în aplicare cu rapiditate a Legii privind securitatea cibernetică; ia act de faptul că dezvoltarea schemelor de certificare ale UE ar trebui să asigure o dezvoltare și o implementare mai reziliente ale unor sisteme sigure de IA și de robotică;
+
+102. consideră că IA poate constitui, în același timp, o amenințare la adresa securității cibernetice și instrumentul de luptă împotriva atacurilor cibernetice; opinează că Agenția Uniunii Europene pentru Securitatea Rețelelor și a Informațiilor (ENISA) ar trebui să pregătească un plan de acțiune privind securitatea cibernetică în domeniul IA, care să evalueze și să abordeze amenințările și punctele slabe specifice IA;
+
+103. subliniază importanța consolidării bazei industriale ca o componentă strategică a dezvoltării IA în condiții de securitate; subliniază că pentru a asigura un nivel ambițios de securitate cibernetică, de protecție a datelor și servicii TIC de încredere, Europa trebuie să investească în independența sa tehnologică; subliniază nevoia urgentă ca UE să își dezvolte propriile infrastructuri, centre de date, sisteme de tip cloud și componente, ca de exemplu procesoare grafice și chipuri;
+
+104. remarcă faptul că, întrucât IA evoluează și hackerii devin tot mai sofisticați, soluțiile robuste de securitate cibernetică vor deveni indispensabile;
+
+105. recunoaște că implementarea soluțiilor de IA în securitatea cibernetică va permite previziunea, prevenirea și atenuarea amenințărilor;
+
+106. scoate în evidență că, deși IA va oferi o mai mare capacitate pentru depistarea amenințărilor, este indispensabil să existe o interpretare umană a acestor amenințări, cu scopul de a stabili dacă ele sunt reale sau nu;
+
+107. invită Comisia să exploreze utilizarea aplicațiilor de securitate cibernetică bazate pe tehnologia blockchain care să îmbunătățească reziliența, încrederea și robustețea infrastructurilor de IA prin modele de criptare a datelor fără intermediere; invită Comisia să analizeze posibilitatea de a recompensa cetățenii pentru datele lor oferindu-le token-uri;
+
+108. invită Comisia să întărească capacitatea de securitate cibernetică a UE combinând și coordonând în continuare eforturile întreprinse în întreaga Europă;
+
+3.1.7.IMM-urile
+
+109. recunoaște importanța IMM-urilor pentru succesul IA; salută inițiativa Comisiei de a crea o platformă la cerere pentru IA care va stimula transferul de tehnologie și va accelera creșterea întreprinderilor nou-înființate și a IMM-urilor; invită Comisia să promoveze centrele de inovare digitală pentru IA care nu duc la crearea unor niveluri de administrație suplimentare, ci se concentrează pe accelerarea investițiilor în proiecte care și-au dovedit eficiența;
+
+110. ia act de faptul că costurile investițiilor în IA duc la bariere majore pentru pătrunderea IMM-urilor; recunoaște că adoptarea la scară largă a IA de către consumatori ar elimina riscurile asociate acestei investiții pentru IMM-uri;
+
+111. subliniază necesitatea de a promova atât adoptarea IA de către IMM-uri, cât și utilizarea acesteia de către consumatori;
+
+112. subliniază importanța unor măsuri punctuale care să asigure că IMM-urile și întreprinderile nou-înființate pot adopta și beneficia de tehnologiile IA; consideră că evaluările de impact privind efectele noii legislații UE asupra dezvoltării tehnologice a IA ar trebui să fie obligatorii și că astfel de evaluări de impact ar trebui avute în vedere inclusiv la nivel național;
+
+113. subliniază că IA poate fi un catalizator pentru IMM-uri, dar, că aceasta va spori, de asemenea, influența marilor precursori și a primilor dezvoltatori; subliniază, prin urmare, necesitatea, din punctul de vedere al concurenței, de a se asigura că noile denaturări sunt evaluate și abordate în mod corespunzător;
+
+4.Cadrul juridic pentru inteligența artificială și robotică
+
+114. invită Comisia ca, în vederea promovării unui mediu de reglementare propice dezvoltării IA și în conformitate cu principiul unei mai bune legiferări, să reevalueze periodic legislația în vigoare pentru a asigura adecvarea acesteia în ceea ce privește IA, respectându-se totodată valorile fundamentale ale UE, și să urmărească să modifice sau să înlocuiască noile propuneri atunci când reiese contrariul;
+
+115. salută crearea unor platforme participative bazate pe IA care permit cetățenilor să fie ascultați cu succes și să interacționeze cu guvernele prin prezentarea de propuneri, inclusiv prin intermediul unor bugete participative și a altor instrumente ale democrației directe; subliniază că proiectele ascendente pot stimula participarea cetățenilor și pot ajuta oamenii să ia decizii în cunoștință de cauză într-un mod mai eficient și mai democratic;
+
+116. observă că IA este o noțiune care cuprinde o gamă largă de produse și aplicații, de la automatizare, algoritmi, inteligență artificială îngustă și până la inteligența artificială generală; consideră că un act legislativ sau un regulament cuprinzător privind inteligența artificială trebuie abordat cu prudență, întrucât reglementările sectoriale pot cuprinde politici suficient de generale, dar, de asemenea, îmbunătățite până la un nivel la care devin semnificative pentru sectorul industrial;
+
+117. subliniază că acest cadru de politică trebuie să fie conceput pentru a încuraja dezvoltarea tuturor tipurilor de IA, nu numai a sistemelor de învățare profundă, care necesită un volum imens de date;
+
+4.1.O piață internă pentru inteligența artificială
+
+118. subliniază importanța principiului recunoașterii reciproce în ceea ce privește utilizarea transfrontalieră a mărfurilor inteligente, inclusiv a roboților și a sistemelor robotice; reamintește că, atunci când este necesar, testarea, certificarea și siguranța produselor ar trebui să garanteze că anumite mărfuri sunt sigure prin proiectare și în mod implicit; observă, în acest context, cât este de important să se lucreze și la aspectele etice ale IA;
+
+119. subliniază că legislația UE referitoare la punerea în aplicare a strategiei privind piața unică digitală ar trebui să elimine barierele din calea implementării IA; invită Comisia să evalueze necesitatea actualizării cadrelor de politică și de reglementare pentru a construi o piață unică europeană pentru IA;
+
+120. este conștient de faptul că tehnologiile din domeniul IA și al roboticii sunt tot mai mult folosite în vehiculele autonome, precum automobilele autonome și dronele civile; observă că unele state membre aplică deja sau au în vedere acte legislative în acest domeniu specific, fapt care ar putea conduce la un mozaic de legislații naționale care ar crea obstacole în calea dezvoltării vehiculelor autonome; solicită, prin urmare, un set unic de norme ale Uniunii care să asigure un echilibru adecvat între interesele și riscurile potențiale pentru utilizatori, întreprinderi și alte părți interesate, evitând în același timp reglementarea excesivă a sistemelor din domeniul roboticii și al IA;
+
+121. îndeamnă statele membre să își modernizeze sistemele de educație și de formare profesională pentru a ține seama de progresele științifice și de evoluțiile din domeniul IA, în conformitate cu Directiva privind testarea proporționalității(10) și cu Directiva privind recunoașterea calificărilor profesionale(11), și să facă serviciile profesionale ale UE competitive la nivel mondial în următoarele decenii;
+
+122. subliniază că IA se aplică unei varietăți de sectoare în care standardizarea este de mare relevanță, cum ar fi fabricarea inteligentă, robotica, vehiculele autonome, realitatea virtuală, asistența medicală și analiza datelor, și consideră că standardizarea la nivelul UE a IA va stimula inovarea și va garanta un nivel ridicat de protecție a consumatorilor; recunoaște că deși există un număr semnificativ de standarde privind aspecte precum siguranța, fiabilitatea, interoperabilitatea și securitatea, este necesară promovarea și dezvoltarea în continuare a unor standarde comune pentru robotică și IA și acestea ar trebui să facă parte din prioritățile Uniunii; invită Comisia ca, în cooperare cu organismele de standardizare ale UE, să continue să colaboreze proactiv cu organismele de standardizare internaționale pentru îmbunătățirea standardelor în acest domeniu;
+
+123. reamintește că multe aspecte de politică pertinente pentru serviciile bazate pe IA, inclusiv normele privind protecția consumatorilor și politica în materie de etică și răspundere, sunt prevăzute în cadrul de reglementare existent privind serviciile, și anume Directiva privind serviciile(12), Directiva privind calificările profesionale și Directiva privind comerțul electronic(13); subliniază că, în acest context, oamenii trebuie să fie întotdeauna responsabili în ultimă instanță pentru procesul decizional, în special pentru serviciile profesionale, cum ar fi profesiile medicale, juridice și contabile; consideră că este necesar să se analizeze dacă este necesară supravegherea de către un profesionist calificat, cu scopul de a proteja obiectivele legitime de interes public și de a oferi servicii de înaltă calitate;
+
+124. recunoaște importanța serviciilor digitale îmbunătățite, precum asistenți virtuali, chatboți și agenți virtuali, care au o eficiență operațională fără precedent, recunoscând în același timp necesitatea de a dezvolta o IA orientată spre om și orientată spre piață pentru ca să rezulte decizii mai bune și mai fiabile, având în vedere limitele autonomiei IA și roboticii;
+
+4.2.Datele personale și confidențialitatea
+
+125. subliniază că trebuie să se asigure un nivel ridicat de siguranță, securitate și confidențialitate în ceea ce privește datele utilizate pentru comunicarea între oameni, roboți și inteligența artificială; invită, prin urmare, Comisia și statele membre să integreze principiile securității și protecției vieții private încă din stadiul concepției în politicile lor legate de robotică și de inteligența artificială;
+
+126. reamintește că dreptul la protecția vieții private și dreptul la protecția datelor cu caracter personal, astfel cum sunt consacrate la articolele 7 și 8 din Carta drepturilor fundamentale și la articolul 16 din TFUE, se aplică în toate sferele roboticii și inteligenței artificiale, și că trebuie respectat pe deplin cadrul juridic al Uniunii privind protecția datelor; subliniază responsabilitatea proiectanților sistemelor de roboți și inteligenței artificiale de a dezvolta produse astfel încât acestea să fie sigure, securizate și adecvate scopului și să urmeze proceduri pentru prelucrarea datelor care să respecte legislația actuală, confidențialitatea, anonimatul, tratamentul echitabil și garanțiile procedurale;
+
+127. invită Comisia să se asigure că orice act legislativ al Uniunii privind inteligența artificială include măsuri și norme care țin seama de evoluția tehnologică rapidă în acest domeniu, pentru a asigura că legislația Uniunii nu rămâne în urmă față de curba dezvoltării și implementării tehnologice; subliniază necesitatea ca respectiva legislație să fie în concordanță cu normele privind confidențialitatea și protecția datelor; solicită reexaminarea normelor, principiilor și criteriilor privind utilizarea camerelor de luat vederi și a senzorilor în roboți și în ce privește inteligența artificială, în conformitate cu cadrul juridic al Uniunii privind protecția datelor;
+
+128. invită Comisia să se asigure că orice viitor cadru de reglementare al UE privind IA garantează respectarea vieții private și confidențialitatea comunicațiilor, protecția datelor personale, inclusiv principiile legalității, corectitudinii și transparenței, protecția datelor începând cu momentul conceperii și în mod implicit, limitarea scopului, limitarea stocării, exactitatea și reducerea la minimum a datelor, în deplină conformitate cu legislația Uniunii privind protecția datelor, precum și securitatea, siguranța personală și alte drepturi fundamentale, cum ar fi dreptul la libertatea de exprimare și de informare;
+
+129. subliniază faptul că dreptul la confidențialitate trebuie întotdeauna respectat, iar persoanele nu trebuie să poată fi identificate personal; subliniază că un dezvoltator de IA ar trebui să aibă în permanență un consimțământ clar, lipsit de ambiguități și în cunoștință de cauză și că proiectanții de IA au responsabilitatea de a elabora și a urma proceduri privind un consimțământ valabil, confidențialitate, anonimat, tratament echitabil și respectarea garanțiilor procedurale; subliniază că proiectanții trebuie să respecte toate solicitările ca orice date conexe să fie distruse și eliminate din toate seturile de date;
+
+130. reamintește că Regulamentul (UE) 2018/1807 al Parlamentului European și al Consiliului din 14 noiembrie 2018 privind un cadru pentru libera circulație a datelor fără caracter personal în Uniunea Europeană(14) prevede că, „în cazul în care evoluțiile tehnologice ar permite transformarea datelor anonime în date cu caracter personal, aceste date vor fi tratate ca date cu caracter personal, iar Regulamentul general privind protecția datelor (RGPD)(15) trebuie să se aplice în consecință”;
+
+4.3.Răspunderea
+
+131. salută inițiativa Comisiei de a crea grupul de experți privind răspunderea și noile tehnologii pentru a furniza UE cunoștințe specializate privind aplicabilitatea Directivei privind răspunderea pentru produsele cu defect(16) la produsele tradiționale, noile tehnologii și noile provocări societale (subgrupul privind Directiva privind răspunderea pentru produsele cu defect) și a sprijini UE în elaborarea principiilor care pot servi drept orientări pentru posibile adaptări ale legislației aplicabile la nivelul UE și la nivel național cu privire la noile tehnologii (subgrupul privind noile tehnologii);
+
+132. regretă, totuși, că nicio propunere legislativă nu a fost prezentată în cursul acestei legislaturi, întârziind, astfel, actualizarea normelor privind răspunderea la nivelul UE și punând în pericol securitatea juridică în acest domeniu în întreaga UE, atât pentru comercianți, cât și pentru consumatori;
+
+133. remarcă faptul că inginerii din domeniul inteligenței artificiale sau societățile unde sunt angajați aceștia ar trebui să rămână răspunzători de impactul social, de mediu și asupra sănătății oamenilor pe care sistemele de inteligență artificială sau robotica l-ar putea avea asupra generațiilor actuale și viitoare;
+
+4.4.Protecția și capacitarea consumatorilor
+
+134. subliniază faptul că încrederea consumatorilor este esențială pentru dezvoltarea IA și că sistemele bazate pe IA se ocupă de date din ce în ce mai numeroase ale consumatorilor, ceea ce le transformă în ținte primare pentru atacurile cibernetice; subliniază, de asemenea, că IA trebuie să funcționeze într-un mod care să nu fie în detrimentul cetățenilor și al consumatorilor și consideră că integritatea datelor și a algoritmilor pe care se bazează trebuie, prin urmare, asigurată;
+
+135. consideră că tehnologiile de IA dezvoltate atât pentru producție, cât și pentru uz individual ar trebui să facă obiectul unor verificări a siguranței produselor de către autoritățile de supraveghere a pieței și al normelor de protecție a consumatorilor, asigurând, după caz, standarde minime de siguranță și abordând riscul de accidente care rezultă în urma interacțiunii cu oamenii sau a lucrului în apropierea oamenilor; consideră că orice politică privind IA ar trebui să țină seama de aspectele legate de etică, protecția datelor, inclusiv datele terților și datele cu caracter personal, răspundere civilă și securitatea cibernetică;
+
+4.5.Drepturile de proprietate intelectuală
+
+136. reamintește rezoluția sa din 16 februarie 2017, menționată mai sus, în care a remarcat că nu există dispoziții legale care se aplică în mod specific roboticii, dar că regimurile juridice și doctrinele existente pot fi ușor de aplicat în domeniul roboticii, deși unele aspecte par să necesite o examinare specifică; reiterează apelul său din rezoluția respectivă adresat Comisiei de a susține o abordare orizontală tehnologic neutră a proprietății intelectuale, aplicabilă diferitelor sectoare în care poate fi utilizată robotica;
+
+137. salută, în acest sens, comunicarea Comisiei către instituții privind orientările referitoare la anumite aspecte ale Directivei 2004/48/CE a Parlamentului European și a Consiliului privind respectarea drepturilor de proprietate intelectuală(17) (COM(2017)0708), dar subliniază necesitatea de a monitoriza pertinența și eficiența normelor privind drepturile de proprietate intelectuală care să reglementeze dezvoltarea IA; subliniază, în acest context, importanța verificărilor adecvării;
+
+5.Aspecte de ordin etic
+
+138. consideră că acțiunile și aplicațiile din domeniul inteligenței artificiale ar trebui să respecte principii etice și dreptul relevant la nivel național, la nivelul Uniunii și la nivel internațional;
+
+139. solicită crearea unei carte etice a celor mai bune practici pentru IA și robotică pe care să o urmeze întreprinderile și experții;
+
+140. invită Comisia și statele membre să promoveze o cooperare puternică și transparentă între sectorul public, sectorul privat și mediul universitar, care să consolideze schimbul de cunoștințe și să promoveze educația și formarea profesională pentru proiectanți în ceea ce privește implicațiile etice, siguranța și respectarea drepturilor fundamentale, precum și pentru consumatori în ceea ce privește utilizarea roboticii și a inteligenței artificiale, punând un accent special pe siguranța și confidențialitatea datelor;
+
+141. invită Comisia să se asigure că aplicațiile bazate pe IA nu folosesc date colectate din diferite surse fără consimțământul prealabil al persoanei vizate; invită Comisia să creeze un cadru care să asigure că consimțământul acordat de persoana vizată va genera date numai pentru scopurile avute în vedere;
+
+142. invită Comisia să respecte dreptul cetățenilor la o viață offline și să se asigure că nu sunt discriminați cetățenii cu privire la care nu există date înregistrate;
+
+5.1.Tehnologia centrată pe om
+
+143. subliniază că trebuie să existe norme etice pentru a se asigura dezvoltarea unei IA centrate pe om, răspunderea și transparența sistemelor decizionale algoritmice, norme clare în materie de răspundere și echitatea;
+
+144. salută inițiativa Comisiei de a înființa Grupul de experți la nivel înalt privind inteligența artificială, precum și rețeaua UE a alianței pentru IA, cu scopul de a elabora orientări etice pentru IA; solicită Comisiei să asigure adoptarea în cea mai mare măsură posibilă a acestor orientări etice de către industrie, mediul academic și autoritățile publice; recomandă ca statele membre să incorporeze orientările în strategiile lor naționale privind IA și să dezvolte structuri veritabile de răspundere pentru industrii și guverne atunci când proiectează și implementează IA;
+
+145. consideră că este esențială monitorizarea continuă a implementării orientărilor etice privind IA și a impactului acesteia asupra dezvoltării IA centrate pe om; solicită Comisiei să analizeze dacă orientările etice voluntare sunt suficiente pentru a asigura adoptarea integrată etic și incluzivă a IA de o manieră care să nu genereze disparități economice și sociale în societățile UE și să propună, dacă este nevoie, măsuri politice și de reglementare;
+
+146. ia act de evoluțiile recente în ceea ce privește monitorizarea și adaptarea la analizele comportamentale; invită Comisia să dezvolte un cadru etic care să limiteze utilizarea sa; îndeamnă Comisia să sensibilizeze publicul larg și să lanseze o campanie de informare cu privire la IA și la utilizarea acesteia în analizele comportamentale;
+
+5.2.Valorile integrate în tehnologie („etică integrată de la proiectare”).
+
+147. relevă faptul că acest cadru etic orientativ ar trebui să fie bazat pe principiile acțiunii strict în interesul beneficiarului (beneficiența), alegerii de a nu face rău (non-maleficiența), autonomiei și justiției, pe principiile și valorile consacrate la articolul 2 din Tratatul privind Uniunea Europeană și în Carta drepturilor fundamentale, precum demnitatea umană, egalitatea, justiția și echitatea, nediscriminarea, consimțământul în cunoștință de cauză, respectarea vieții private și de familie și protecția datelor, precum și pe alte principii și valori subiacente din dreptul Uniunii, cum ar fi nestigmatizarea, transparența, autonomia, responsabilitatea individuală și răspunderea socială, precum și pe practicile și codurile etice existente;
+
+148. consideră că Europa ar trebui să preia poziția de lider la nivel mondial implementând exclusiv IA integrată etic; subliniază că, pentru a realiza acest lucru, guvernanța eticii în domeniul IA trebuie să fie asigurată la diferite niveluri; recomandă statelor membre să instituie organisme de monitorizare și supraveghere a eticii în domeniul IA și să încurajeze întreprinderile care dezvoltă IA să înființeze consilii etice și să elaboreze orientări etice pentru dezvoltatorii lor de IA;
+
+149. accentuează faptul că standardele europene în materie de IA trebuie să se bazeze pe principiile eticii digitale, demnității umane, respectării drepturilor fundamentale, protecției și securității datelor, contribuind astfel la consolidarea încrederii utilizatorilor; subliniază că este important să se capitalizeze potențialul UE de a crea o infrastructură puternică pentru sisteme de IA bazate pe standarde înalte în materie de date și pe respectarea ființelor umane; constată că dezvoltarea IA trebuie să integreze transparența și explicabilitatea în toate etapele sale;
+
+150. ia act de faptul că sistemele de arme automate ar trebui să continue să abordeze inteligența artificială dintr-o perspectivă bazată pe controlul uman (human-in-command);
+
+5.3.Luarea deciziilor – limitele autonomiei inteligenței artificiale și roboticii
+
+151. subliniază dificultatea și complexitatea prezicerii viitoarelor comportamente ale multor sisteme de IA complexe și a comportamentelor emergente ale sistemelor de IA aflate în interacțiune; solicită Comisiei să evalueze dacă este nevoie de reglementări specifice legate de procesele decizionale bazate pe IA;
+
+152. ia act de faptul că IA va continua să fie un instrument util de colaborare cu acțiunea umană, pentru a o ameliora și a-i diminua erorile;
+
+153. solicită ca oamenii să aibă dreptul de a cunoaște, dreptul de a recurge la o cale de atac și dreptul la reparații atunci când IA este folosită pentru decizii care afectează persoane individuale într-o manieră care prezintă un risc semnificativ pentru drepturile sau libertățile persoanelor individuale sau care le poate cauza daune;
+
+154. subliniază că algoritmii sistemelor decizionale nu ar trebui implementați fără o evaluare prealabilă a impactului algoritmului, cu excepția cazului în care este clar că nu au un impact semnificativ asupra vieții persoanelor individuale;
+
+155. este de opinie că inteligența artificială, în special sistemele cu autonomie integrată din construcție, care include capacitatea de a extrage, colecta și partaja independent informații sensibile cu diverse părți interesate, precum și posibilitatea de autoînvățare sau chiar de a evolua spre automodificare, ar trebui supusă unor principii robuste; subliniază că sistemele de IA nu trebuie să păstreze sau să divulge informații confidențiale personale fără aprobarea explicită a sursei respectivei informații;
+
+5.4.Transparența, subiectivitatea și explicabilitatea algoritmilor
+
+156. subliniază că, deși IA prezintă beneficii substanțiale pentru automatizare și luarea deciziilor, aceasta comportă totodată un risc inerent dacă algoritmii au un caracter static și opac; subliniază, în acest context, că este necesar să existe o transparență sporită în privința algoritmilor;
+
+157. invită Comisia, statele membre și autoritățile pentru protecția datelor să identifice și să ia toate măsurile posibile pentru a preveni sau minimiza discriminarea și părtinirea algoritmică și să dezvolte un cadru etic comun solid pentru prelucrarea transparentă a datelor cu caracter personal și procesele decizionale automatizate, care să orienteze utilizarea datelor și asigurarea respectării dreptului Uniunii;
+
+158. accentuează faptul că orice sistem de IA trebuie să fie dezvoltat respectându-se principiile transparenței și responsabilității algoritmice, astfel încât oamenii să înțeleagă acțiunile IA; constată că, pentru a consolida încrederea în IA și a permite progresul acesteia, utilizatorii trebuie să fie conștienți de modul cum le sunt folosite datele, precum și datele deduse din datele lor, atunci când comunică sau interacționează cu un sistem de IA sau cu persoane asistate de un sistem de IA; consideră că astfel se va contribui la o mai bună înțelegere și o mai mare încredere a utilizatorilor; subliniază că, în conformitate cu articolele 13, 14 și 15 din RGPD, inteligibilitatea deciziilor trebuie să fie un standard al UE; reamintește că RGPD prevede deja dreptul de a fi informat în privința logicii implicate în prelucrarea datelor; evidențiază că, în conformitate cu articolul 22 din RGPD, persoanele vizate au dreptul de a beneficia de intervenție umană atunci când o decizie bazată pe prelucrarea automată le afectează semnificativ;
+
+159. reliefează rolul fundamental pe care Comisia, Comitetul european pentru protecția datelor, autoritățile naționale de protecție a datelor și alte autorități de supraveghere independente ar trebui să îl joace de acum înainte pentru a promova transparența și garanțiile procedurale, securitatea juridică în general și, mai specific, standarde concrete care protejează drepturile fundamentale și garanțiile asociate cu utilizarea prelucrării și analizei datelor; solicită o colaborare mai strânsă între autoritățile responsabile cu supravegherea sau reglementarea comportamentului în mediul digital; solicită o finanțare adecvată și asigurarea personalului pentru respectivele autorități;
+
+160. recunoaște că algoritmii de învățare automată sunt antrenați să învețe independent, aducând beneficii automatizării și procesului decizional; solicită ca orientările etice privind IA să abordeze chestiuni legate de transparența, explicabilitatea, răspunderea și echitatea algoritmică;
+
+161. scoate în evidență importanța explicabilității rezultatelor, proceselor și valorilor IA, pentru ca ele să poată fi înțelese de un public nespecialist și pentru ca publicul respectiv să beneficieze de informații relevante, lucru necesar pentru a evalua echitatea și a câștiga încredere;
+
+162. subliniază că lipsa de transparență cu privire la aceste tehnologii și aplicarea lor ridică o serie de semne de întrebare de ordin etic;
+
+163. remarcă faptul că sistemele de IA ar trebui să fie explicabile oamenilor și ar trebui să furnizeze informații adecvate pentru ca să se poată furniza feedback; recunoaște că robustețea modelelor de IA depinde de feedback și de reevaluare și încurajează aceste proces;
+
+164. ia act de faptul că cetățenii sunt preocupați de faptul că nu vor ști când se utilizează IA și ce informații vor fi prelucrate; recomandă ca cetățenii să fie informați în mod clar de fiecare dată când se folosește IA; subliniază că, pentru a menține încrederea consumatorilor, este important ca datele transmise să rămână sigure;
+
+165. consideră că răspunderea algoritmică ar trebui să fie reglementată de factorii de decizie politică prin intermediul unor evaluări de impact bazate pe parametri prestabiliți;
+
+166. ia act de faptul că divulgarea codului informatic în sine nu va soluționa problema transparenței IA, deoarece nu ar dezvălui factorii subiectivi inerenți și nu ar explica procesul de învățare automatizat; subliniază că transparență înseamnă nu doar transparența codului, ci și a datelor și a proceselor decizionale automatizate;
+
+167. recunoaște că divulgarea codului-sursă ar putea duce la abuzuri și la manipularea aleatorie a algoritmilor;
+
+168. subliniază că este important să se abordeze atitudinile părtinitoare ale dezvoltatorilor și, astfel, necesitatea unei forțe de muncă diverse în toate ramurile sectorului IT, precum și a mecanismelor de salvgardare pentru a evita integrarea prejudecăților legate de gen și vârstă în sistemele de IA;
+
+169. admite că divulgarea codului sau a secretelor comerciale ar descuraja, de asemenea, întreprinderile să cerceteze și să dezvolte noi secvențe de cod, deoarece proprietatea lor intelectuală ar fi expusă riscului; remarcă faptul că dezvoltarea IA ar trebui să încurajeze în schimb interpretabilitatea modelelor și interacțiunile acestora cu datele de intrare și datele de antrenament;
+
+170. recunoaște că, deși transparența și explicabilitatea ar putea expune deficiențe, acestea nu garantează fiabilitatea, securitatea și echitatea; consideră, prin urmare, că responsabilitatea este esențială pentru obținerea unei inteligențe artificiale fiabile, lucru care poate fi realizat prin diverse mijloace, cum ar fi evaluarea impactului algoritmilor, audit și certificare;
+
+171. subliniază necesitatea de a dezvolta protocoale pentru monitorizarea și depistarea continuă a subiectivității algoritmilor;
+
+172. subliniază că cei care concep algoritmi ar trebui să se asigure că sunt respectate cerințele esențiale precum echitatea și explicabilitatea încă de la începutul fazei de proiectare și pe parcursul întregului ciclu de dezvoltare;
+
+173. remarcă necesitatea de a se elabora orientări care să descrie bunele practici de dezvoltare;
+
+174. subliniază importanța expunerii descendenței pentru a putea trasa istoricul unui model de IA; consideră că acest lucru va îmbunătăți înțelegerea modelelor și va contribui la instaurarea unui climat de încredere bazat pe istoricul lor;
+
+175. subliniază că utilizarea sistemelor IA trebuie să fie clar identificată în interacțiunile cu utilizatorii;
+
+176. subliniază că răspândirea inteligenței artificiale și a roboticii va trebui să se desfășoare cu respectarea deplină a drepturilor omului, iar stereotipurile împotriva femeilor și nicio altă formă de discriminare nu vor trebui în niciun caz reproduse la mașini și la roboți;
+
+177. atrage atenția asupra faptului că până și datele de înaltă calitate folosite la antrenare pot conduce la perpetuarea discriminării și nedreptății existente atunci când nu sunt utilizate cu grijă și în mod conștient; observă că utilizarea unor date de proastă calitate, depășite, incomplete sau incorecte în diferite etape ale prelucrării datelor poate conduce la previziuni și evaluări neadecvate și, ulterior, la părtinire, care poate duce, în cele din urmă, la încălcarea drepturilor fundamentale ale persoanelor sau la concluzii incorecte în totalitate sau la rezultate false; consideră, prin urmare, că este important ca, în era volumelor mari de date, să se asigure antrenarea algoritmilor pe eșantioane reprezentative de date de înaltă calitate pentru a obține paritatea statistică; subliniază că, chiar dacă se utilizează date precise și de înaltă calitate, analiza predictivă bazată pe IA poate oferi doar o probabilitate statistică; reamintește că, în temeiul RGPD, prelucrarea ulterioară a datelor cu caracter personal în scopuri statistice, inclusiv pentru antrenarea IA, poate avea drept rezultat doar date agregate, care nu pot fi aplicate din nou persoanelor;
+
+178. invită Comisia să se asigure că toți cei care produc materiale sau materiale video sintetice deepkafe sau alte materiale video sintetice făcute să pară reale indică în mod explicit faptul că aceste materiale nu sunt originale;
+
+179. remarcă faptul că IA se bazează implicit pe colectarea unui volum mare de date și, deseori, pe crearea de noi baze de date folosite pentru a face presupuneri despre oameni; consideră că ar trebui să se pună accentul pe identificarea și construirea unor mecanisme de răspuns la potențiale amenințări, cu scopul de a asigura atenuarea efectelor negative;
+
+180. reiterează că sistemele de IA nu ar trebui să genereze subiectivitate sau să o consolideze; subliniază că la dezvoltarea și utilizarea algoritmilor ar trebui incluse considerente legate de subiectivitate și echitate în toate etapele, de la proiectare la implementare; subliniază că setul de date și algoritmul trebuie evaluate și testate periodic pentru a se asigura un proces decizional corect;
+
+6.Guvernanța
+
+6.1.Coordonarea la nivelul Uniunii
+
+181. invită Comisia să depună eforturi pentru ca UE să devină un factor puternic de coordonare, astfel încât să se prevină dublarea și fragmentarea eforturilor și să se asigure politici coerente la nivel național și schimbul de bune practici pentru o mai amplă utilizare a IA;
+
+182. salută diferitele strategii naționale dezvoltate de statele membre; salută Planul coordonat al Comisiei privind inteligența artificială, publicat la 7 decembrie 2018; solicită o mai bună cooperare între statele membre și Comisie în această privință;
+
+183. ia act de faptul că o serie de state membre dispun deja de propriile strategii naționale în materie de IA și salută faptul că, în aprilie 2018, toate statele membre au semnat o Declarație privind cooperarea în domeniul inteligenței artificiale; salută, de asemenea, viitorul plan coordonat privind IA între Comisie și statele membre, dar invită toate părțile implicate să depună eforturi pentru a asigura ce mai înalt nivel de cooperare posibil;
+
+184. consideră că este necesară o cooperare consolidată între statele membre și Comisie pentru a garanta coerența normelor transfrontaliere în Uniune, care ar încuraja colaborarea dintre industriile europene și ar permite introducerea în întreaga Uniune a unor IA care respectă nivelurile impuse de siguranță și securitate, precum și principiile etice consacrate în dreptul Uniunii;
+
+185. subliniază că un cadru al politicii UE în materie de date armonizat, bazat pe riscuri și progresiv ar spori încrederea și ar sprijini traiectoria IA în Europa, asigurând astfel realizarea pieței unice digitale și îmbunătățind productivitatea întreprinderilor cu sediul în Europa;
+
+186. recomandă o strânsă coordonare a inițiativelor și proiectelor-pilot actuale și viitoare legate de IA derulate de către Comisie, eventual sub îndrumarea mecanismului de supraveghere propus, pentru a obține un efect de sinergie și a asigura crearea de valoare adăugată reală, evitând, în același timp, structurile duble costisitoare;
+
+187. invită Comisia și statele membre să ia în considerare posibilitatea creării unei agenții de reglementare europene pentru IA și procesele decizionale algoritmice, care să aibă următoarele sarcini:
+
+– stabilirea unei matrice de evaluare a riscurilor pentru clasificarea tipurilor de algoritmi și a domeniilor de aplicare în funcție de potențialul unor impacturi negative semnificative asupra cetățenilor;
+
+– investigarea utilizării sistemelor algoritmice atunci când există suspiciunea unei încălcări a drepturilor omului (de exemplu atunci când există dovezi furnizate de un avertizor de integritate);
+
+– consilierea altor agenții de reglementare cu privire la sistemele algoritmice care intră în sfera lor de competență;
+
+– îmbunătățirea eficacității mecanismului de răspundere delictuală ca mijloc de reglementare a răspunderii sistemelor algoritmice prin specificarea unui punct de contact pentru cetățenii care nu cunosc procedurile legale;
+
+– auditarea evaluărilor impactului algoritmilor în cazul sistemelor cu impact de nivel înalt pentru a aproba sau respinge utilizările propuse ale proceselor decizionale algoritmice în domenii de aplicare foarte sensibile și/sau critice pentru siguranță (de exemplu asistența medicală privată); evaluarea impactului algoritmilor în cazul aplicațiilor din sectorul privat ar putea urma un proces foarte asemănător celui propus pentru sectorul public, cu eventuala diferență că diferitele etape de divulgare publică ar putea fi tratate sub formă de comunicări confidențiale către agenția de reglementare (în cadrul unui acord de nedivulgare), cu scopul de a proteja secrete comerciale vitale;
+
+– investigarea cazurilor în care există suspiciunea unei încălcări a drepturilor de către sistemele decizionale algoritmice, atât în cazul unor decizii individuale (de ex. pentru rezultate individuale aberante), cât și al tiparelor de decizie statistică (de ex. pentru subiectivitate discriminatorie); investigațiile ar putea fi declanșate în urma depunerii unor plângeri sau pe baza unor dovezi furnizate de avertizori de integritate, jurnaliști de investigație sau cercetători independenți (inclusiv ONG-uri și mediul academic);
+
+188. ia act de lucrările în curs referitoare la IA ale Organizației Internaționale de Standardizare (ISO) și îndeamnă statele membre să își coordoneze membrii ISO cu scopul de garanta că interesele europene sunt bine reprezentate la elaborarea standardelor din domeniu;
+
+6.2.Guvernanța internațională
+
+189. salută crearea de către OCDE a Observatorului pentru politica privind IA și pledează pentru un grad mai ridicat de ambiție pentru dezvoltarea unei foi de parcurs vizând o cooperare consolidată;
+
+190. scoate în evidență diferitele modele în curs de dezvoltare în țări terțe, în special în SUA, China, Rusia și Israel, și evidențiază abordarea bazată pe valori utilizată în Europa și nevoia de a colabora cu parteneri internaționali, în context bilateral și multilateral, pentru un progres și a adoptare a IA guvernate de etică; recunoaște că această tehnologie nu are frontiere și necesită o cooperare care nu se limitează doar la statele membre ale UE;
+
+191. invită Comisia să fie activă pe plan internațional pentru a asigura cea mai mare coerență între actorii internaționali și pentru a susține principiile etice ale UE la nivel mondial;
+
+192. subliniază că IA este o tehnologie cu impact global, care oferă beneficii comune și dă naștere unor provocări similare; subliniază necesitatea unei abordări globale, așa cum se întâmplă în cazul sistemului economic, în special cu privire la o tehnologie care are un impact semnificativ asupra piețelor; subliniază necesitatea ca IA să fie înscrisă pe agenda instituțiilor și organizațiilor existente și solicită să se evalueze necesitatea unor forumuri suplimentare, care ar trebui create, dacă este nevoie;
+
+Administrația și serviciile publice
+
+Utilizând o gamă largă de date și recunoscând tiparele, IA ar putea oferi avertizări timpurii privind dezastrele naturale, permițând o pregătire eficientă și atenuarea consecințelor.
